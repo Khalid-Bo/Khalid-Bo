@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khalid-Bo
 
 - 👨‍💻 About Me
-🚀 Mechatronics Engineer | Specializing in Embedded Systems, IoT, and Automotive Mechatronics.
-🌱 Passionate about developing innovative solutions in precision agriculture, smart systems, and automation.
+  * 🚀 Mechatronics Engineer | Specializing in Embedded Systems, IoT, and Automotive Mechatronics.
+  * 🌱 Passionate about developing innovative solutions in precision agriculture, smart systems, and automation.
 
 - 💻 Tech Stack:
 
